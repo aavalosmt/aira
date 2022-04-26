@@ -1,10 +1,10 @@
 {
     "dev": {
         "driver": "mysql",
-        "host": "localhost",
+        "host": "db4free.net",
         "port": "3306",
-        "user": "admin",
-        "password": "admin",
-        "database": "aira"
+        "user": "airadodero",
+        "password": "aira1234",
+        "database": "airadodero"
     }
 }
